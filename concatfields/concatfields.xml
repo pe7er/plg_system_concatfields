@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade">
+    <name>plg_system_concatfields</name>
+    <creationDate>January 2025</creationDate>
+    <author>Peter Martin</author>
+    <authorEmail>joomla@db8.nl</authorEmail>
+    <authorUrl>https://db8.nl</authorUrl>
+    <copyright>Copyright (C) 2024-2025 by Peter Martin</copyright>
+    <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+    <version>1.0.0</version>
+    <description>PLG_SYSTEM_CONCATFIELDS_XML_DESCRIPTION</description>
+
+    <files>
+        <filename plugin="concatfields">concatfields.php</filename>
+        <folder>language</folder>
+    </files>
+
+    <config>
+        <fields name="params">
+        </fields>
+    </config>
+
+</extension>
