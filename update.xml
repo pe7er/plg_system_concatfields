@@ -9,9 +9,9 @@
         <version>1.0.1</version>
         <infourl title="plg_system_concatfields">https://github.com/pe7er/plg_system_concatfields</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/pe7er/plg_system_concatfields/releases/download/1.0.1/plg_system_concatfields-1.0.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/pe7er/plg_system_concatfields/releases/download/1.0.2/plg_system_concatfields-1.0.2.zip</downloadurl>
         </downloads>
-        <sha512>14000c228ae26175a6775a9b5b90e3e7c99f7b54c2a8a83bc4c21722a0c52a7c0e6bcee5b735c684f8a29936c3e0ef6c733c8d1d1fb94e60940e61e7885b27b5</sha512>
+        <sha512>2edc931555a29dba087eda80fc65beb78d4cfe1215203399f2d26c44eae65500b061e961b71c07b28cf8db4bc8b8a8197bb7acb90efd40b454f399c9f80b9f01</sha512>
         <tags>
             <tag>stable</tag>
         </tags>
