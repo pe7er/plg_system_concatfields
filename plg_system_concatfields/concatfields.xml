@@ -6,7 +6,7 @@
     <authorUrl>https://db8.nl</authorUrl>
     <copyright>Copyright (C) 2024-2025 by Peter Martin</copyright>
     <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <description>PLG_SYSTEM_CONCATFIELDS_XML_DESCRIPTION</description>
 
     <files>
