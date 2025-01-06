@@ -19,7 +19,6 @@
         </fields>
     </config>
 
-<<<<<<< HEAD
     <updateservers>
         <server type="extension" name="plg_system_concatfields">
             https://raw.githubusercontent.com/pe7er/plg_system_concatfields/refs/heads/main/update.xml
@@ -27,6 +26,3 @@
     </updateservers>
 
 </extension>
-=======
-</extension>
->>>>>>> b28d984ee873fecea5968f56645fc6f6fde79a87
