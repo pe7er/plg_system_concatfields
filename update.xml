@@ -6,12 +6,12 @@
         <type>plugin</type>
         <folder>system</folder>
         <client>site</client>
-        <version>1.0.1</version>
+        <version>1.0.3</version>
         <infourl title="plg_system_concatfields">https://github.com/pe7er/plg_system_concatfields</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/pe7er/plg_system_concatfields/releases/download/1.0.2/plg_system_concatfields-1.0.2.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/pe7er/plg_system_concatfields/releases/download/1.0.3/plg_system_concatfields-1.0.3.zip</downloadurl>
         </downloads>
-        <sha512>2edc931555a29dba087eda80fc65beb78d4cfe1215203399f2d26c44eae65500b061e961b71c07b28cf8db4bc8b8a8197bb7acb90efd40b454f399c9f80b9f01</sha512>
+        <sha512>109b7d92fcb974ec1b87955c1a1ff5b62b70a9808a2effa7991f6fa3af9e4104d180857f7299343c0c1ece7a72e56935391f61f979bdf5d82a7ea678666b22e1</sha512>
         <tags>
             <tag>stable</tag>
         </tags>
