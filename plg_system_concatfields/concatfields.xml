@@ -20,4 +20,10 @@
         </fields>
     </config>
 
+    <updateservers>
+        <server type="extension" name="plg_system_concatfields">
+            https://raw.githubusercontent.com/pe7er/plg_system_concatfields/refs/heads/main/update.xml
+        </server>
+    </updateservers>
+
 </extension>
