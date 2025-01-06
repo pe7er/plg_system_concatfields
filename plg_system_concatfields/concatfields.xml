@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" group="system" method="upgrade">
     <name>plg_system_concatfields</name>
-    <creationDate>January 2025</creationDate>
+    <creationDate>2025-01-06</creationDate>
     <author>Peter Martin</author>
     <authorEmail>joomla@db8.nl</authorEmail>
     <authorUrl>https://db8.nl</authorUrl>
     <copyright>Copyright (C) 2024-2025 by Peter Martin</copyright>
     <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>PLG_SYSTEM_CONCATFIELDS_XML_DESCRIPTION</description>
 
     <files>
@@ -20,6 +19,7 @@
         </fields>
     </config>
 
+<<<<<<< HEAD
     <updateservers>
         <server type="extension" name="plg_system_concatfields">
             https://raw.githubusercontent.com/pe7er/plg_system_concatfields/refs/heads/main/update.xml
@@ -27,3 +27,6 @@
     </updateservers>
 
 </extension>
+=======
+</extension>
+>>>>>>> b28d984ee873fecea5968f56645fc6f6fde79a87
